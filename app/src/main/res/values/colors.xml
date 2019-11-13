@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3897F0</color>
+    <color name="colorPrimaryDark">#1a237e</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="colorNavigation">#F5F5F6</color>
+    <color name="colorItemNavigationDefault">#777777</color>
+    <color name="colorItemNavigationChecked">#FFFFFF</color>
+
+    <color name="whiteSmoke">#FFF7F7F7</color>
+    <color name="darkGrey">#99000000</color>
+
+</resources>

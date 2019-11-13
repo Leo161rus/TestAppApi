@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //Margin
+    <dimen name="smallMarginSize">10dp</dimen>
+    <dimen name="mediumMarginSize">14dp</dimen>
+    <dimen name="defaultMarginSize">18dp</dimen>
+
+    //text
+    <dimen name="smallTextSize">16sp</dimen>
+    <dimen name="defaultTextSize">18sp</dimen>
+    <dimen name="largeTextSize">26sp</dimen>
+
+    //list
+    <dimen name="marginSize">50dp</dimen>
+    <dimen name="widthSize">150dp</dimen>
+
+    //icon
+    <dimen name="mediumIconSize">32dp</dimen>
+    <dimen name="xLargeIconSize">62dp</dimen>
+
+    //header
+    <dimen name="headerMarginTop">30dp</dimen>
+</resources>

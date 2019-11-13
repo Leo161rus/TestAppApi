@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigationSources"
+            android:icon="@drawable/ic_apps_blue_24dp"
+            android:title="@string/titleSources" />
+
+    <item
+            android:id="@+id/navigationNews"
+            android:icon="@drawable/ic_dashboard_blue_24dp"
+            android:title="@string/titleNews" />
+</menu>

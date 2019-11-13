@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <TextView
+            android:id="@+id/header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/defaultMarginSize"
+            android:layout_marginTop="@dimen/headerMarginTop"
+            android:layout_marginBottom="@dimen/defaultMarginSize"
+            android:layout_marginEnd="@dimen/defaultMarginSize"
+            android:textColor="@color/darkGrey"
+            android:textSize="26sp"
+            tools:text = "@string/newsHeader"
+    />
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestAppApi</string>
+    <string name="titleNews">News</string>
+    <string name="titleSources">Sources</string>
+    <string name="newsHeader">Last news</string>
+    <string name="sourcesHeader">Stay on your channel</string>
+    <string name="articleHeader">Last articles</string>
+    <string name="errorText">Error! Try again.</string>
+    <string name="imagenews">imageNews</string>
+</resources>
